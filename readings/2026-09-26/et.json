@@ -1,0 +1,96 @@
+{
+  "day_local": "Kahekümne viienda nädala laupäev tavalisel ajavahemikul",
+  "greeting": "Armsad vennad ja õed Kristuses, tere tulemast meie Sõna ja Palve liturgia leheküljele. Alustagem oma kogunemist Isa ja Poja ja Püha Vaimu nimel. Aamen.",
+  "penitential": "Issand, halasta.\nKristus, halasta.\nIssand, halasta.",
+  "psalm_response": "Igavestest aegadest peale, Issand, oled sa olnud meie elupaik.",
+  "homily": "Me kõik teame seda hetke, kui hommikune valgus langeb läbi akna kuskile lauale, kus seisab pooleldi joodud klaas või mõni lapselik asi – näiteks väike roheline kaustik või lennukikaart. Need on tavalised asjad. Nad ei räägi midagi suurt. Nad lihtsalt on seal. Ja ometi, just need pisikesed argised detailid on sageli need, mis meid kõige sügavamalt tabavad, tuletades meelde kedagi, keda me enam ei näe, aga keda me ei unusta kunagi. Tänane Koguja raamat räägib meile ajast: ajast, mil me rõõmustame, ja ajast, mil me vaatame, kuidas päike tuhmub. Koguja ei püüa seda ilu ja kurbust ilustada. Ta viib meid otse sinna, kus eluhõng pöördub tagasi Jumala juurde, kes selle andis.\n\nVaadake seda pilti tänasest lugemisest: hõbedane nöör on katkenud, kuldne kauss on purunenud. Need on haura kujutised inimelust. Me ehitame oma plaane, me vaatame maailma – täpselt nii, nagu Benjamin Vo vaatas oma arvutiekraane, lennukeid, pilveinfrastruktuure ja kõike seda tohutut teadmist, mida ta viieteistkümneaastase poisina endasse ammutas. Ben oli poiss, kelle jaoks maailm oli avatud raamat. Mäletate, kuidas ta rääkis oma unistusest luua lennufirma, mida ta kutsus nimega „Con Chim Airlines”? Ta naeratas ja gigerdas alati, kui ta sellest rääkis. See ei olnud lihtsalt mäng. See oli tema vaimu lend, tema uudishimu, tema soov puudutada taevast. Ja siis, kolm kuud pärast seda, kui tema maine lend lõppes, seisame me siin ja vaatame samu lennukikaarte, mida tema sõbrad toovad, ja me tunneme, et see nöör katkes liiga vara.\n\nEnne kui me läheme lohutuse juurde, peame ütlema välja selle, mis paljudel kurgus kinni on. Meie seas on vanemaid ja lähedasi – Alan ja Thao, ma tean seda –, kes on kandnud rasket, vaikset süükoormat. Te küsite endalt vaiksetel öötundidel: „Kas ma tegin midagi valesti? Kas ma oleksin pidanud midagi märkama? Kas see oli minu süü?” Kuulake mind nüüd väga tähelepanelikult. See haigus ja see katsumus ei olnud teie süü. Haigused ei tule selleks, et kedagi karistada, ega sellepärast, et keegi jätsid midagi tegemata. See tuli väljastpoolt, see on osa sellest langenud maailmast, mis on väljaspool meie kontrolli. Te ei jätnud midagi vahele. Te olite Beni jaoks maailma parimad vanemad. Jumal ei süüdista teid, ja kallis Benjamin ei süüdista teid. Tõstke see kivi oma südamelt. Te olete täna vabad.\n\nVaadake tänast evangeeliumi. Jeesus ütleb oma jüngritele keset rahvahulga imestust: „Pange tähele seda, mis ma teile ütlen: Inimese Poeg antakse inimeste kätesse.” Jüngrid ei saanud sellest aru. See tähendab, et Jumala teed ei käi alati mööda sirget rada, mida me ise joonistaksime. Jeesus ei hoia kannatust meist eemale; ta astub sellesse sisse. Ta võtab selle vastu. Kui Benjamin tahtis kord omal algatusel – ilma et keegi oleks palunud, ilma et ta oleks midagi lõhkunud või suurt numbrit teinud – anda oma viimased säästud oma haige onu Williami heaks, siis see oli peegeldus sellest armastusest, mida Jeesus ise meile õpetab. See oli poiss, kes tahtis anda kõik, mis tal oli, teise heaks. See on see armastus, mis ei sure.\n\nRyan, ma tean, mida sa tunned. Sa oled kaotanud venna, kes oli su parim sõber ja kaaslane. See tühjus toas on reaalne. Ära karda seda. Ben elab edasi sinu sügavas südames ja sinu tegudes. Iga kord, kui sa oled lahke, iga kord, kui sa meenutad tema naeratust, on Ben sinuga.\n\nMa tahan, et te võtaksite täna kaasa üheainsa asja. Kui te lähete siit uksest välja, öelge endale: „Issand, me anname oma poja Sinu kätte.” Ja siis tehke midagi head ja vaikset kellegi heaks, kellel on raske – ilma et keegi seda märkaks. See on Beni vaim, mis elab edasi. Benjamin Vo, kallis poeg, puhka Jumala rahus, kuni me kohtume seal, kus lennud ei lõpe kunagi. Aamen.",
+  "petitions": [
+    "Me palume Sind, Issand, kuula meie palvet.",
+    "Me palume Sind, Issand, kuula meie palvet.",
+    "Me palume Sind, Issand, kuula meie palvet.",
+    "Me palume Sind, Issand, kuula meie palvet."
+  ],
+  "closing": "Õnnistagu ja hoidku teid kõiki Kõigeväeline Jumal, Isa ja Poeg ja Püha Vaim. Aamen.",
+  "petition_call": "Me palume Sind, Issand:",
+  "petition_response": "Kuula meid, Issand.",
+  "labels": {
+    "opening": "Algus",
+    "penitential": "Meiepatukahetsus",
+    "word": "Jumala Sõna",
+    "homily": "Jutlus",
+    "petitions": "Palved",
+    "communion": "Vaimulik Püha Armulaud",
+    "closing": "Lõpetus"
+  },
+  "standing_petitions": [
+    "Me palume Benjamin Vo ja kõigi lahkunute eest, et nad puhkaksid Kristuse igaveses valguses.",
+    "Me palume kõigi leinajate ja kannatajate eest, et Jumal ise lohutaks neid ja annaks neile kindla lootuse."
+  ],
+  "readings": [
+    {
+      "label": "Esimene lugemine",
+      "cite": "Koguja 11:9—12:8",
+      "text": "Rõõmusta, noormees, oma nooruses, ja su süda olgu heas meeles su noorpõlvepäevil! Käi oma südame teid ja oma silmade vaatevälja mööda, aga tea, et Jumal viib su selle eest kohtusse! Kõrvalda meelepahandus oma südamest ja hoia kurjus eemal oma ihust, sest noorus ja koiduaeg on tühisus! Tuleta meelde oma Loojat oma noorpõlvepäevil, enne kui tulevad kurjad päevad ja jõuavad kätte aastad, mille kohta sa ütled: „Need ei meeldi mulle!“ Enne kui päike, valgus, kuu ja tähed pimenevad ja pilved tulevad tagasi pärast vihma; päeval, mil koja valvurid värisevad ja tugevad mehed kummarduvad, mil veskineiud on tegevuseta, sest neid on vähe, ja aknast vaatajad pimenevad; mil tänavauksed suletakse ja veski hääl on vaikne; mil tõustakse üles linnu häälitsemise peale, aga kõik laulutütred alandatakse; mil kardetakse kõrgusi ja hirme teel; mil mandlipuu õitseb ja rohutirts on koormaks ja kapparimari ei anna enam tuld – sest inimene läheb oma igavesesse kotta ja leinajad käivad tänaval! Enne kui hõbedane nöör katkeb ja kuldne kauss puruneb ja kann peegli juures katki läheb ja ratas kaevu juures puruks langeb; ja põrm naaseb maasse, nii nagu ta on olnud, ja vaim naaseb Jumala juurde, kes selle on andnud. Tühisuste tühisus, ütleb Koguja, kõik on tühisus!"
+    },
+    {
+      "label": "Vastulaul",
+      "cite": "Psalm 90:3-4, 5-6, 12-13, 14 ja 17",
+      "text": "R. Igavestest aegadest peale, Issand, oled sa olnud meie elupaik.\nSa viid inimese tagasi põrmu ja ütled: „Tulge tagasi, te inimlapsed!“ Sest tuhat aastat on sinu silmis nagu eilne päev, mis on möödunud, või nagu vahikorra aeg ööl.\nR. Igavestest aegadest peale, Issand, oled sa olnud meie elupaik.\nSa viid nad ära unne; nad on hommikul nagu tärkav rohi: hommikul see õitseb ja tärkab, õhtul see niidetakse ja see kuivab.\nR. Igavestest aegadest peale, Issand, oled sa olnud meie elupaik.\nÕpeta meid oma päevi arvestama, et me saaksime targa südame! Pöördu, Issand! Kui kaua veel? Halasta oma sulaste peale!\nR. Igavestest aegadest peale, Issand, oled sa olnud meie elupaik.\nKüllasta meid hommikul oma heldusega, siis me saame hõisata ja rõõmustada kogu oma eluaja! Ja meie Jumala Issanda ilu olgu meie peal, ja kinnita meie kätetöö meie juures, ja kinnita meie kätetöö!\nR. Igavestest aegadest peale, Issand, oled sa olnud meie elupaik."
+    },
+    {
+      "label": "Evangeelium",
+      "cite": "Luuka 9:43b-45",
+      "text": "Kui kõik olid alles imestunud kõige üle, mida Jeesus tegi, siis ta ütles oma jüngritele: „Võtke need sõnad endale südamesse: Inimese Poeg antakse inimeste kätesse.“ Aga nemad ei mõistnud seda sõna, see oli nende eest varjatud, nii et nad ei saanud sellest aru, ja nad kartsid teda selle sõna kohta küsitleda."
+    }
+  ],
+  "day": "Saturday of the Twenty-Fifth Week in Ordinary Time",
+  "date": "2026-09-26",
+  "lang": "et",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "day_local": "Sabbato Hebdomadae vicesimae quintae per annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Gratia et pax vobis a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Domine, miserere nobis.\nChriste, miserere nobis.\nDomine, miserere nobis.",
+  "psalm_response": "In omni generatione, Domine, fuisti refugium nobis.",
+  "homily": "In lectione hodierna, sapiens ille Qoheleth nos invitat ad imaginem valde specificam: 'Memento Creatoris tui in diebus iuventutis tuae, antequam veniant dies mali.' Cogitate de hac imagine. Non est haec admonitio tristis, sed invitatio ad videndum vitam ut donum quod in manibus Dei tenemus. Videte puerum, Benjamin nostrum, in illis diebus quibus ille, cum curiositate sua infinita, mundum explorabat. Non solum in aëroplana, quae tam vehementer amabat, sed in ipso modo quo ille logicam et technologiam tractabat, Benjamin semper ad altitudinem spectabat. Ille non erat puer qui in terra haerebat; ille erat sicut aëroplanum quod, in caelo sereno, ad horizontem tendit. Cogitate de illo momento, cum quindecim annorum esset, et voluerit totum piggy bank suum offerre avunculo suo qui duobus ictibus laborabat. Non fregit capsulam, non effudit nummos, sed obtulit. In hoc actu abscondito, in hac voluntate dandi totum quod habebat, videmus verum spiritum filii. Ipse non quaerebat gloriam sibi; volebat solacium alterius. Hic est fructus quem Deus quaerit: cor quod se donat, cor quod non est onustum vanitate mundi, sed leve et paratum ad amandum.\n\nSed audite me, Alan et Thao, Ryan carissime. Post tres menses, forsitan sentitis vos in illo loco sedere, ubi silentium domus quasi teloneum est. Forsitan cogitatis de illis diebus, cum Benjamin, quindecim annorum, tam diligenter studebat, cum ille 'Con Chim Airlines' creabat, cum ille ridebat de suis ideis. Nolite timere hanc vanitatem. Vos, in dolore vestro, nolite putare vos debere fortis videri ubi cor vestrum vulneratum est. Si forte subit vobis illa gravis cogitatio, illa tacita vox quae nocte dicit: 'Numquid potui plus facere? Numquid in me culpa est?', audite hodie vocem Salvatoris. Infirmitas non est poena; morbus non est defectus amoris vestri. Vos nihil omisistis. Non est in vobis ulla culpa. Deus non vos accusat, et ego vos in nomine eius absolvo ab omni pondere suspicionis. Illae curae nocturnae, illa pondera quae tacite fertis, non veniunt a Patre luminum. Deus non mittit dolorem ad probandum amorem. Dolor venit sicut tempestas, sine culpa nautae. Vos fuistis parentes et frater qui omnem passum iuxta eum ambulastis cum corde pleno, ab initiis illis usque ad supremum diem.\n\nIn Evangelio hodierno, Iesus dicit: 'Ponite in cordibus vestris sermones istos: Filius enim hominis futurum est ut tradatur in manus hominum.' Discipuli non intellexerunt. Et habebant timorem interrogandi eum. Hic est cardo totius nostrae spei. Iesus non promittit vitam sine cruce, sed promittit vitam quae mortem vincit. Benjamin, in vita sua brevi, fuit instrumentum huius misericordiae. Ipse non est in terra, sed in convivio caeli. Ipse, sicut Sanctus Carolus Acutis, nunc intercedit pro vobis. Ipse non est vanus. Ipse est vivus in Deo. Ryan, frater carissime, tu es pars huius amoris. Tu et Benjamin eratis sicut duae alae unius avis. Noli timere. Frater tuus non est longe. Ipse tecum est in omni ludo, in omni cogitatione tua. Perge vivere, perge studere, perge ridere, quia in tuo risu, Benjamin pergit in terra operari. Tu es spes familiae, et frater tuus te custodit ab altitudine caeli. Cum tu in somnio vel in silentio cubiculi sentis praesentiam eius, scito eum non abesse, sed esse quasi custodem iuxta viam.\n\nAd vos omnes qui hanc devotionem auditis—specialiter ad liberos qui aegrotant, ad familias quae crucem gravem circumferunt—scitote Deum non esse alienum a dolore vestro. Ipse descendit in foveam. Ipse est nobiscum in omne tempus. Quid ergo hodie portabitis tecum ex hoc ambo? Cum redieritis ad domum vestram, et forte in silentio sedebitis, nolite timere silentium. In silentio non habitat mors; in silentio habitat Deus, et cum eo habitat Benjamin. Respiros capite altiores. Dicite in corde vestro illam simplicem invocationem: 'Domine Iesu, tu es nobiscum.' Et permittite ut pax illa, quae omnem sensum superat, cor vestrum custodiat. Benjamin est in pace, in convivio caeli. Ipse vos amat, ipse vos custodit usque ad diem illum quo omnes iterum congregebimur in conspectu Patris. Amen.",
+  "spiritual_communion": "Ad te, Iesu mi, totus converto animum meum, et in te confido. Credo te in Sacramento praesentem, et te super omnia diligo. Quoniam te nunc sacramentaliter accipere non possum, veni saltem spiritualiter in cor meum. Te complector, quasi iam veneris, et totum me tibi coniungo. Ne permittas me a te umquam separari.",
+  "closing": "Benedicat vos Deus omnipotens, Pater, et Filius, et Spiritus Sanctus. Ite in pace, portantes spem Christi in cordibus vestris.",
+  "petition_call": "Oremus ad Dominum.",
+  "petition_response": "Exaudi nos, Domine.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Preces",
+    "communion": "Communio spiritualis",
+    "closing": "Conclusio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin, puero nostro, et omnibus qui in fide Christi dormierunt, ut in luce aeterna requiescant, oremus ad Dominum.",
+    "Pro omnibus qui maerore afflicti sunt, ut Deus corda eorum consoletur et spem vivam in eis renovet, oremus ad Dominum."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Ecclesiastes 11:9—12:8",
+      "text": "Laetare, iuvenis, in adulescentia tua, et in bono sit cor tuum in diebus iuventutis tuae, et ambula in viis cordis tui et in intuitu oculorum tuorum; et scito quod pro omnibus his adducet te Deus in iudicium. Aufer iram a corde tuo et amove malitiam a carne tua; adulescentia enim et voluptas vana sunt. Memento Creatoris tui in diebus iuventutis tuae, antequam veniant dies mali et appropinquent anni, de quibus dicas: 'Non mihi placent'; antequam tenebrescat sol et lumen et luna et stellae, et revertantur nubes post pluviam; quando commovebuntur custodes domus, et nutabunt viri fortissimi, et otiosae erunt molentes in numero minuto, et tenebrescent videntes per foramina; et claudent ostia in platea, in humilitate vocis molentis, et consurgent ad vocem volucris, et obsurdescent omnes filiae carminis; excelsa quoque timebunt, et formidines in via; florebit amygdalus, impinguabitur locusta, et dissipabitur capparis, quoniam ibit homo in domum aeternitatis suae, et circumibunt in platea plangentes; antequam rumpatur funiculus argenteus, et recurvetur vitta aurea, et conteratur hydria super fontem, et confringatur rota super cisternam, et revertatur pulvis in terram, sicut erat, et spiritus revertatur ad Deum, qui dedit illum. Vanitas vanitatum, dixit Ecclesiastes, omnia vanitas."
+    },
+    {
+      "label": "Psalmus responsorius",
+      "cite": "Psalmus 90:3-4, 5-6, 12-13, 14 et 17",
+      "text": "R. In omni generatione, Domine, fuisti refugium nobis. Convertis hominem in pulverem et dicis: 'Revertimini, filii hominum.' Quoniam mille anni in oculis tuis sicut dies hesterna, quae transiit, et custodia in nocte. R. In omni generatione, Domine, fuisti refugium nobis. Perfundis eos; somnium fiunt, mane sicut herba transiens: mane floret et transit, vespere succiditur et arescit. R. In omni generatione, Domine, fuisti refugium nobis. Dinumerare dies nostros sic nos doce, ut inducamus cor in sapientiam. Revertere, Domine; usquequo? Et deprecabilis esto super servos tuos. R. In omni generatione, Domine, fuisti refugium nobis. Reple nos mane misericordia tua, et exsultabimus et delectabimur omnibus diebus nostris. Et sit splendor Domini Dei nostri super nos, et opus manuum nostrarum dirige super nos; et opus manuum nostrarum dirige. R. In omni generatione, Domine, fuisti refugium nobis."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Lucas 9:43b-45",
+      "text": "Cum omnes mirarentur in omnibus quae faciebat, dixit ad discipulos suos: 'Ponite in cordibus vestris sermones istos: Filius enim hominis futurum est ut tradatur in manus hominum.' At illi ignorabant verbum hoc, et erat velatum ante eos, ut non sentirent illud; et timebant interrogare eum de hoc verbo."
+    }
+  ],
+  "day": "Saturday of the Twenty-Fifth Week in Ordinary Time",
+  "date": "2026-09-26",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    }
+  ]
+}

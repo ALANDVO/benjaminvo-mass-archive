@@ -1,0 +1,91 @@
+{
+  "day_local": "Memoria Beatae Mariae Virginis Perdolentis",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Amen. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Domine, miserere nostri.\nChriste, miserere nostri.\nDomine, miserere nostri.",
+  "psalm_response": "Populus eius sumus, et oves pascuae eius.",
+  "homily": "Stat prope crucem Iesu mater eius. Haec pauca verba nos ponunt in terram ubi nullum verbum supervacuum est. Cogitate de matre quae stat. Non sedet in quiete domus suae; non avertit faciem ab horrore. Stat ibi, ubi ventus asper et sanguis innocentis terram tingunt. Sunt momenta in vita hominum ubi terra sub pedibus abit, ubi nihil manet nisi pondus silentii. Si quis nostrum hodie in hoc silentio stat, si quis cor habet perforatum ab ea lancea quae matrem Domini transfixit, sciat se non esse solum in tenebris.\n\nIn hac memoria Beatae Mariae Virginis Perdolentis, imago illa quae per omne hoc tempus currit non est triumphus saeculi, sed gladius. Gladius ille de quo Simeon dixit: 'Et tuam ipsius animam pertransibit gladius.' Non est ferrum quod corpus vulnerat, sed amor quod patitur. Cogitate de matre, de Thao, de Alan, et de vobis omnibus qui pondus fertis quod nemo nisi Deus metiri potest. Post tres menses, absentia non est iam novus hospes; est quasi paries durus in domo. Et tamen, sub hoc pondere, interdum auditur vox parvula. Meministisne quomodo Benjamin, puer ille cui mens erat tam acuta in rebus technicis et in arcano illius amoris quem omnibus dabat, interdum in cursu vitae suae cum patre suo ridebat de 'Con Chim Airlines'? Ille, qui volabat in cogitationibus suis inter nubes et machinas, qui amabat avia et caelum, habuit animam tam teneram ut, cum avunculus eius aegrotaret, obtulerit totum piggy bank suum—non fracto vase, non pompa, sed simplici oblatione pueri qui volebat omnia dare pro iis quos amabat.\n\nSed antequam ulterius procedamus, necesse est nos veritatem fateri coram altari. Non est facile. Saepe subit illa cogitationum tempestas: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hodie vocem Salvatoris. Infirmitas non est poena; morbus non est defectus amoris vestri. Vos nihil omisistis. Non est in vobis ulla culpa. Deus non vos accusat, et ego vos in nomine eius absolvo ab omni pondere suspicionis. Illae curae nocturnae, illa pondera quae tacite fertis, non veniunt a Patre luminum. Deus non mittit dolorem ad probandum amorem. Dolor venit sicut tempestas in mari, sine culpa nautae. Vos fuistis parentes et fratres qui omnem passum iuxta eum ambulastis cum corde pleno.\n\nEt hic, in ipso puncto ubi dolor et amor se tangunt, Evangelium Ioannis aperitur. Jesus, videns matrem et discipulum quem amabat stantem iuxta, dicit matri: 'Mulier, ecce filius tuus.' Et discipulo: 'Ecce mater tua.' Haec non est sola ordinatio familiae in hora mortis; haec est creatio novae communionis. In cruce, cum omnia consummata videntur, Christus non relinquit homines in solitudine. Ipse dat matrem. Ipse dat locum ubi fletus potest quiescere in sinu caritatis. Benjamin, qui nunc in Banquet of Heaven cum Sancto Carolo Acutis et omnibus angelis stat, non est remotus a vobis. Ipse non periit; ipse intravit in lucem illam unde omnes nos respicit. Si Ryan frater eius, in somnio vel in silentio cubiculi, quaerit fratrem suum, sciat Benjamin non abesse, sed esse quasi custodem iuxta viam.\n\nAd vos omnes qui hanc devotionem auditis—specialiter ad liberos qui aegrotant, ad familias quae crucem gravem circumferunt—scitote matrem dolorosam intelligere lacrimas vestras. Ipsa novit quid sit videre filium in conspectu crucis. Non est dolor qui latet ab oculis Dei. Cum redieritis hodie ad domos vestras, et videritis locum vacuum vel imaginem pueri cum risu suo radiante et dentibus parvis in capite Lakers, nolite timere lacrimas. Lacrimae non sunt defectus fidei; sunt lingua amoris qui adhuc loquitur. Sumite spiritum altum. Dicite in silentio cordis vestri: 'Domine, tu nosti omnia; tu nosti quia amo.' Et permittite pacem matris Virginis et misericordiam Christi tegere animas vestras usque in aeternum. Amen.",
+  "spiritual_communion": "Credo, Domine, quod es in altissimo altari sacramentum. Amo te super omnia et desidero te in anima mea. Quoniam nunc non possum sacramentaliter sumere, veni saltem spiritualiter ad cor meum. Ut iam venisco, amplector te et totum me coniungo tibi; ne permittas me unquam separari a te. Amen.",
+  "closing": "Benedictio Dei Omnipotentis, Patris, et Filii, et Spiritus Sancti, descendat super vos et maneat semper. Amen.",
+  "petition_call": "Rogemus Dominum.",
+  "petition_response": "Te rogamus, audi nos.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Preces Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Conclusio"
+  },
+  "standing_petitions": [
+    "Pro Beniamino et omnibus qui defoncerunt, ut in luce et pace Christi aeternaliter requiescant, rogemus Dominum.",
+    "Pro omnibus qui dolent et gravia onera portant, ut consolationem divinam et spem vivam inveniant, rogemus Dominum."
+  ],
+  "readings": [
+    {
+      "label": "Lectio Prima",
+      "cite": "1 Corinthiis 12, 12-14. 27-31a",
+      "text": "Fratres: Sicut corpus unum est, et membra habet multa, omnia autem membra corporis cum sint multa, unum tamen corpus sunt: ita et Christus. Etenim in uno Spiritu omnes nos in unum corpus baptizati sumus, sive Iudaei, sive Graeci, sive servi, sive liberi; et omnes unum Spiritum potati sumus. Nam et corpus non est unum membrum, sed multa. Vos autem estis corpus Christi, et membra de membro. Et quosdam quidem posuit Deus in Ecclesia, primum apostolos, secundo prophetas, tertio doctores, deinde virtutes, exinde gratias curationum, opitulationes, gubernationes, genera linguarum. Numquid omnes apostoli? Numquid omnes prophetae? Numquid omnes doctores? Numquid omnes virtutes? Numquid omnes gratias habent curationum? Numquid omnes linguis loquuntur? Numquid omnes interpretantur? Aemulamini autem charismata meliora."
+    },
+    {
+      "label": "Psalmus Responsorius",
+      "cite": "Psalmus 99 (100), 1b-2. 3. 4. 5",
+      "text": "R. Populus eius sumus, et oves pascuae eius.\nIubilate Deo, omnis terra; servite Domino in laetitia. Introite in conspectu eius in exsultatione.\nR. Populus eius sumus, et oves pascuae eius.\nScitote quoniam Dominus ipse est Deus; ipse fecit nos, et non ipsi nos, populus eius et oves pascuae eius.\nR. Populus eius sumus, et oves pascuae eius.\nIntroite portas eius in confessione, atria eius in hymnis; confitemini illi. Laudate nomen eius,\nR. Populus eius sumus, et oves pascuae eius.\nQuoniam suavis est Dominus, in aeternum misericordia eius, et usque in generationem et generationem veritas eius.\nR. Populus eius sumus, et oves pascuae eius."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Ioannes 19, 25-27",
+      "text": "In illo tempore: Stabant autem iuxta crucem Iesu mater eius, et soror matris eius, Maria Cleophae, et Maria Magdalene. Cum vidisset ergo Iesus matrem, et discipulum stantem, quem diligebat, dicit matri suae: «Mulier, ecce filius tuus». Deinde dicit discipulo: «Ecce mater tua». Et ex illa hora accepit eam discipulus in sua."
+    }
+  ],
+  "day": "Memorial of Our Lady of Sorrows",
+  "date": "2026-09-15",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - need a miracle here. We miss you so much and we’re not sleeping much. Ryan wish you were here, especially this upcoming Saturday to play the new version of Project Flight with him."
+    }
+  ]
+}

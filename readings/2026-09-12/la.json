@@ -1,0 +1,91 @@
+{
+  "day_local": "Sabbato in Hebdomada vicesima tertia per Annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Pax vobis in gratia Domini nostri Iesu Christi, qui est fundamentum vitae nostrae.",
+  "penitential": "Kyrie eleison. Christe eleison. Kyrie eleison.",
+  "psalm_response": "Calicem salutaris accipiam et nomen Domini invocabo.",
+  "homily": "Videte, fratres et sorores, hunc puerum, Benjamin, stantem in conclavi, manibus suis parvulis timentem ne quid in ludo suo erraret. Non loquor de mathematica, non de AWS, sed de illo momento simplicissimo, cum ipse, duodecim annorum, in conspectu patris sui, lacrimas effundebat pro metu amittendi eum. Erat in eo affectus tam profundus, tam verus, ut cor patris penetraret. In illa lacrima, in illo timore, non erat scientia inflans, sed amor aedificans. \n\nSanctus Paulus, in lectione hodierna, nos monet: 'Scientia inflat, caritas vero aedificat.' Cogitate de hoc. Scientia, quamvis necessaria, si sine caritate est, sicut aer inanis est. Sed caritas, illa quae in Beniamino tam clare lucebat, est fundamentum quod non movetur. Benjamin, qui tam acutus erat in logica et in machinis, numquam permisit ut intellectus eius cordi suo obesset. Ipse sciebat, quod nos interdum obliviscimur: quod scire aliquid non est idem quod amare aliquem.\n\nSed antequam ulterius procedamus, oportet nos veritatem fateri coram Deo et coram vobis. Non est facile hodie stare in hoc silentio. Alan et Thao, vos scitis melius quam quisquam alius quid sit pondus absentiae. Post menses illos, cubiculum illud quietum est, et sella ad mensam vacua manet. Ryan, frater carissime, tu quaeris fratrem tuum in omni angulo domus. Nolite simulare dolorem non esse. Nolite putare vos debere fortis videri ubi cor vestrum vulneratum est. Dolor hic est verus, et Deus non vult ut vos hunc dolorem sola manu feratis. Et fortasse interdum, in illis horis noctis, subit vobis quaestio illa gravis: numquid aliquid omisistis? Numquid potuistis plus facere? Audite hodie vocem Christi, quae tollit omnem culpam de humeris vestris. Infirmitas non est poena; morbus non est defectus amoris vestri. Sicut Iesus docet de caeco nato, neque ille neque parentes peccaverunt. Vos nihil omisistis. Non est in vobis ulla culpa. Deus non vos accusat, et ego vos in nomine eius absolvo ab omni pondere.\n\nHic est ille cardo ubi lux in noctem vestram intrat. In Evangelio, Iesus dicit: 'Diligite inimicos vestros, benefacite his qui vos oderunt.' Hoc videtur impossibile, sed Iesus non petit quod ipse non dat. Ipse est qui in cruce, in summo dolore, oravit pro iis qui eum occiderunt. Ipse est qui, in vestro dolore, orat pro vobis. Benjamin, ille puer qui volebat totum suum piggy bank offerre avunculo suo, non fregit capsulam, non effudit nummos, sed obtulit. In hoc actu abscondito videtur verus spiritus amoris. Beniaminus non quaerebat gloriam huius mundi. Ipse erat sicut illae 'azymae sinceritatis' de quibus Paulus loquitur. Ipse erat puritas in medio mundi transeuntis. Et nunc, in convivio caeli, ille amor, ille risus, illa curiositas, non pereunt. In Deo, nihil quod est bonum perit. Beniaminus non est 'praeteritus'. Ipse est 'praesens' in Deo.\n\nRyan, frater carissime, tu es pars huius amoris. Tu et Benjamin eratis sicut duae alae unius avis. Noli timere. Frater tuus non est longe. Ipse tecum est in omni ludo, in omni cogitatione tua. Perge vivere, perge studere, perge ridere, quia in tuo risu, Benjamin pergit in terra operari. Tu es spes familiae, et frater tuus te custodit.\n\nAd omnes vos qui hanc devotionem auditis ex longinquo—praesertim parentes qui crucem gravem ferunt, et liberos qui in corporibus suis infirmantur—scitote vos non esse solos. Deus non est alienus a dolore vestro. Sicut Iesus dicit, 'Estote misericordes, sicut et Pater vester misericors est.' Haec est via. Non per scientiam, non per rationem, sed per misericordiam.\n\nQuid ergo hodie portabitis tecum ex hoc ambo? Cum redieritis ad domum vestram, et forte in silentio sedebitis ante illam sellam vacantem, nolite timere silentium. In silentio non habitat mors; in silentio habitat Deus, et cum eo habitat Benjamin. Respiros capite altiores. Dicite in corde vestro illam simplicem invocationem: 'Domine Iesu, tu es nobiscum.' Et permittite ut pax illa, quae omnem sensum superat, cor vestrum custodiat. Benjamin est in pace, in convivio caeli, ubi nullus fletus, nullus morbus, nulla separatio est. Ipse vos expectat, ipse vos amat, ipse vos custodit usque ad diem illum quo omnes iterum congregebimur in conspectu Patris. Amen.",
+  "spiritual_communion": "Ad te, Domine Iesu, cor meum elevo. Credo Te in Sanctissimo Sacramento praesentem. Te amo super omnia, et desidero ut in animam meam venias. Cum Te nunc sacramentaliter accipere non possim, veni ad me saltem spiritualiter in corde meo. Te complector tamquam iam venisses, et totum me Tibi unio. Ne permittas me umquam a Te separari.",
+  "closing": "Benedicat vos Deus Omnipotens, Pater, et Filius, et Spiritus Sanctus. Amen.",
+  "petition_call": "Domine, exaudi nos.",
+  "petition_response": "Te rogamus, audi nos.",
+  "labels": {
+    "opening": "Exordium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Orationes Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Beniamino Vo et omnibus fidelibus defunctis, ut in luce Christi aeternaliter requiescant.",
+    "Pro omnibus qui luctu afflicti sunt, ut Deus eos consoletur et spem vivam in cordibus eorum renovet."
+  ],
+  "readings": [
+    {
+      "label": "Lectio Prima",
+      "cite": "1 Corinthians 10:14-22",
+      "text": "Carissimi, fugite ab idololatria. Sicut prudentibus loquor, vos iudicate quod dico. Calix benedictionis, cui benedicimus, nonne communicatio sanguinis Christi est? Et panis, quem frangimus, nonne communicatio corporis Christi est? Quoniam unus panis, unum corpus multi sumus; omnes enim de uno pane participamus. Videte Israel secundum carnem: nonne qui edunt hostias, participes sunt altaris? Quid ergo dico? Quod idolothytum sit aliquid? Aut quod idolum sit aliquid? Sed quae immolant, daemoniis immolant et non Deo; nolo autem vos socios daemoniorum fieri. Non potestis calicem Domini bibere et calicem daemoniorum; non potestis mensae Domini participes esse et mensae daemoniorum. An aemulamur Dominum? Numquid fortiores eo sumus?"
+    },
+    {
+      "label": "Psalmus Responsorius",
+      "cite": "Psalm 116:12-13, 17-18",
+      "text": "Quid retribuam Domino pro omnibus, quae retribuit mihi? Calicem salutaris accipiam et nomen Domini invocabo. Tibi sacrificabo hostiam laudis et nomen Domini invocabo. Vota mea Domino reddam in conspectu omnis populi eius."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Luke 6:43-49",
+      "text": "In illo tempore, dixit Iesus discipulis suis: 'Non est arbor bona, quae facit fructus malos, neque arbor mala, faciens fructum bonum. Unaquaeque enim arbor de fructu suo cognoscitur; neque enim de spinis colligunt ficus, neque de rubo vindemiant uvam. Bonus homo de bono thesauro cordis sui profert bonum, et malus homo de malo thesauro profert malum; ex abundantia enim cordis os loquitur. Quid autem vocatis me: \"Domine, Domine\", et non facitis quae dico? Omnis, qui venit ad me et audit sermones meos et facit eos, ostendam vobis, cui similis sit: similis est homini aedificanti domum, qui fodit in altum et posuit fundamentum supra petram; inundatione autem facta, illisus est fluvius domui illi et non potuit eam movere; fundata enim erat supra petram. Qui autem audierit et non fecerit, similis est homini aedificanti domum super terram sine fundamento, in quam illisus est fluvius, et confestim cecidit, et facta est ruina domus illius magna.'"
+    }
+  ],
+  "day": "Saturday of the Twenty-Third Week in Ordinary Time",
+  "date": "2026-09-12",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - need a miracle here. We miss you so much and we’re not sleeping much. Ryan wish you were here, especially this upcoming Saturday to play the new version of Project Flight with him."
+    },
+    {
+      "name": "Dad",
+      "text": "Dear Ben, our uncle Thanh has passed away. Please watch over him and pray that his soul finds peace. His saint name is Phêrô. Lord, thank you for sending Chu Thanh into my life. I'll always be grateful for the time he spent tutoring me in math back in high school"
+    },
+    {
+      "name": "Dad",
+      "text": "can't stop thinking about you Ben... wishing i could go back into time and try to change things around... maybe spend more time with you and less working so much. Please pray for me and mom."
+    }
+  ]
+}

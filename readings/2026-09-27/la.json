@@ -1,0 +1,96 @@
+{
+  "day_local": "Dominica vicesima sexta per annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Memento miserationum tuarum, Domine.",
+  "homily": "Videte, fratres et sorores, imaginem illam in Evangelio hodierno: vineam patris. Pater ad duos filios accedit. Unus dicit 'Nolo,' sed postea paenitentia ductus operari pergit. Alter dicit 'Volo,' sed in otio manet. Cogitate de hac vinea. Non est haec vinea solum locus laboris; est locus ubi amor patris et obedientia filii se invicem inveniunt. In hac vinea, res non sunt abstractae. Sunt manus quae terram tangunt, sunt pedes qui iter faciunt, est voluntas quae se subicit alteri.\n\nBenjamin noster, puer ille cuius mens tam acuta in technologia et in logicis versabatur, scivit quid sit vinea vitae. Meministisne illius amoris ad aëroplana? Non solum machinas amabat, sed prospectum caeli. Ille scivit, in sua curiositate, quod aëroplana non solum in terra manent, sed ad altitudinem tendunt. Benjamin noster, sicut aëroplanum quod in caelo sereno volitat, semper ad aliquid maius spectabat. Ille non erat puer qui in terra haerebat; ille erat sicut aëroplanum quod ad horizontem tendit. Cogitate de illo momento, cum quindecim annorum esset, et voluerit totum piggy bank suum offerre avunculo suo qui duobus ictibus laborabat. Non fregit capsulam, non effudit nummos, sed obtulit. In hoc actu abscondito, in hac voluntate dandi totum quod habebat, videmus verum spiritum filii. Ipse non quaerebat gloriam sibi; volebat solacium alterius. Hic est fructus quem Deus quaerit: cor quod se donat, cor quod non est onustum vanitate mundi, sed leve et paratum ad amandum.\n\nSed audite me, Alan et Thao, Ryan carissime. Post tres menses, forsitan sentitis vos in illo loco sedere, ubi silentium domus quasi teloneum est. Forsitan cogitatis de illis diebus, cum Benjamin, quindecim annorum, tam diligenter studebat, cum ille 'Con Chim Airlines' creabat, cum ille ridebat de suis ideis. Nolite timere hanc vanitatem. Vos, in dolore vestro, nolite putare vos debere fortis videri ubi cor vestrum vulneratum est. Si forte subit vobis illa gravis cogitatio, illa tacita vox quae nocte dicit: 'Numquid potui plus facere? Numquid in me culpa est?', audite hodie vocem Salvatoris. Infirmitas non est poena; morbus non est defectus amoris vestri. Vos nihil omisistis. Non est in vobis ulla culpa. Deus non vos accusat, et ego vos in nomine eius absolvo ab omni pondere suspicionis. Illae curae nocturnae, illa pondera quae tacite fertis, non veniunt a Patre luminum. Deus non mittit dolorem ad probandum amorem. Dolor venit sicut tempestas, sine culpa nautae. Vos fuistis parentes et frater qui omnem passum iuxta eum ambulastis cum corde pleno, ab initiis illis usque ad supremum diem.\n\nIn lectione prima, Ezechiel clamat: 'Is it my way that is unfair, or rather, are not your ways unfair?' Deus nos invitat ad veritatem. Saepe in dolore, nos ipsi sumus qui nos accusamus. Nos sumus qui credimus nos debuisse plus videri, plus facere, plus scire. Sed Deus dicit: 'Si convertitur impius ab impietate sua, vivet.' Converti non est mutare actus, sed mutare cor. Est permittere ut Deus auferat pondus quod vosmetipsos imponitis. Vos non estis in culpa. Benjamin non est in culpa. Vita eius, tam plena, tam splendida, est donum quod in manibus Dei manet.\n\nAd vos omnes qui hanc devotionem auditis—specialiter ad liberos qui aegrotant, ad familias quae crucem gravem circumferunt—scitote Deum non esse alienum a dolore vestro. Ipse descendit in foveam. Ipse est nobiscum in omne tempus. Quid ergo hodie portabitis tecum ex hoc ambo? Cum redieritis ad domum vestram, et forte in silentio sedebitis, nolite timere silentium. In silentio non habitat mors; in silentio habitat Deus, et cum eo habitat Benjamin. Respiros capite altiores. Dicite in corde vestro illam simplicem invocationem: 'Domine Iesu, tu es nobiscum.' Et permittite ut pax illa, quae omnem sensum superat, cor vestrum custodiat. Benjamin est in pace, in convivio caeli. Ipse vos amat, ipse vos custodit usque ad diem illum quo omnes iterum congregebimur in conspectu Patris. Amen.",
+  "spiritual_communion": "Ad te, Iesu mi, totus converto animum meum, et in sinu tuo, licet absens corpore, praesentem me sisto. Desidero te, Domine, in corde meo recipere, ut tu in me vivas et ego in te. Amen.",
+  "closing": "Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus Sanctus. Amen.",
+  "petition_call": "Rogemus Dominum.",
+  "petition_response": "Te rogamus, audi nos.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Preces Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin Vo et omnibus fidelibus defunctis, ut in luce Christi requiescant.",
+    "Pro omnibus qui lugent, ut Deus eos consoletur et spem vivam in cordibus eorum ponat."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Ezekiel 18:25-28",
+      "text": "Haec dicit Dominus: Et dicitis: 'Non est aequa via Domini!' Audi, domus Israel: Numquid via mea non est aequa, et non magis viae vestrae pravae sunt? Cum averterit se iustus a iustitia sua et fecerit iniquitatem, morietur in eis; in iniquitate sua, quam operatus est, morietur. Et cum averterit se impius ab impietate sua, quam operatus est, et fecerit iudicium et iustitiam, ipse animam suam vivificabit. Considerans enim et avertens se ab omnibus iniquitatibus suis, quas operatus est, vita vivet et non morietur."
+    },
+    {
+      "label": "Psalmus Responsorius",
+      "cite": "Psalm 25:4-5, 6-7, 8-9",
+      "text": "R. Memento miserationum tuarum, Domine. Vias tuas, Domine, demonstra mihi et semitas tuas edoce me. Dirige me in veritate tua et doce me, quia tu es Deus salvator meus. R. Memento miserationum tuarum, Domine. Reminiscere miserationum tuarum, Domine, et misericordiarum tuarum, quoniam a saeculo sunt. Delicta iuventutis meae et ignorantias meas ne memineris; secundum misericordiam tuam memento mei tu, propter bonitatem tuam, Domine. R. Memento miserationum tuarum, Domine. Dulcis et rectus Dominus, propter hoc legem dabit peccatoribus in via. Diriget mansuetos in iudicio, docebit mites vias suas. R. Memento miserationum tuarum, Domine."
+    },
+    {
+      "label": "Lectio secunda",
+      "cite": "Philippians 2:1-11",
+      "text": "Fratres: Si qua ergo consolatio in Christo, si quod solacium caritatis, si qua communio Spiritus, si qua viscera et miserationes, implete gaudium meum, ut idem sapiatis, eandem caritatem habentes, unanimes, idipsum sapientes, nihil per contentionem neque per inanem gloriam, sed in humilitate superiores sibi invicem arbitrantes, non quae sua sunt unusquisque considerantes, sed et ea, quae aliorum. Hoc enim sentite in vobis, quod et in Christo Iesu: qui cum in forma Dei esset, non rapinam arbitratus est esse se aequalem Deo, sed semetipsum exinanivit formam servi accipiens, in similitudinem hominum factus; et habitu inventus ut homo, humiliavit semetipsum factus oboediens usque ad mortem, mortem autem crucis. Propter quod et Deus illum exaltavit et donavit illi nomen, quod est super omne nomen, ut in nomine Iesu omne genu flectatur caelestium, terrestrium et infernorum, et omnis lingua confiteatur quia Dominus Iesus Christus in gloria est Dei Patris."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Matthew 21:28-32",
+      "text": "In illo tempore: Dixit Iesus principibus sacerdotum et senioribus populi: 'Quid vobis videtur? Homo quidam habebat duos filios. Et accedens ad primum dixit: Fili, vade hodie operare in vinea mea. Ille autem respondens ait: Nolo. Postea autem paenitentia motus abiit. Accedens autem ad alterum dixit similiter. At ille respondens ait: Eo, domine, et non ivit. Quis ex duobus fecit voluntatem patris?' Dicunt: 'Primus.' Ait illis Iesus: 'Amen dico vobis, quia publicani et meretrices praecedent vos in regnum Dei. Venit enim ad vos Ioannes in via iustitiae, et non credidistis ei; publicani autem et meretrices crediderunt ei. Vos autem videntes nec paenitentiam habuistis postea, ut crederetis ei.'"
+    }
+  ],
+  "day": "Twenty-sixth Sunday in Ordinary Time",
+  "date": "2026-09-27",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    }
+  ]
+}

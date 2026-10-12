@@ -1,0 +1,91 @@
+{
+  "day_local": "Dé hAoine den Tríú Seachtain is Fiche sa Tréimhse Choiteann",
+  "greeting": "In ainm an Athar, agus an Mhic, agus an Spioraid Naoimh. Go raibh grá agus síocháin ár dTiarna Íosa Críost in éineacht libh go léir.",
+  "penitential": "A Thiarna, déan trócaire.\nA Chríost, déan trócaire.\nA Thiarna, déan trócaire.",
+  "psalm_response": "A Thiarna na slua, is aoibhinn do theach!",
+  "homily": "Tá rud éigin faoi dheisiú rudaí a bhíonn briste a labhraíonn go domhain lenár n-anamacha. Smaoinigh ar an gcaoi a n-oibríonn duine óg a bhfuil intinn ghéar aige, mar a bhí ag ár mBenjamin Vo. Nuair a bhí Ben ag scríobh cód, nuair a bhí sé ag tógáil a chuid clár ar GitHub, ní raibh sé ag féachaint ar na línte mar théacs amháin. Bhí sé ag féachaint ar an gcaoi a bhféadfadh na codanna éagsúla teacht le chéile chun rud éigin nua, rud éigin feidhmiúil, a chruthú. Bhí sé ina bhuachaill a thuig go raibh gá le beachtas, le foighne, agus le súil ghéar chun an locht a aimsiú sula bhféadfaí an fhadhb a réiteach. \n\nSa Soiscéal inniu, labhraíonn Íosa linn faoin 'bhíoma' atá i súil an duine. 'Cén fáth a bhfeiceann tú an smidirín i súil do dhearthár, ach nach mothaíonn tú an bhíoma i do shúil féin?' Is íomhá í seo a chuireann stad orainn. Is íomhá í de dhallacht. Ní hé go bhfuil muid olc, ach go bhfuil muid dall ar ár n-easnaimh féin, agus sa dallacht sin, éiríonn muid cáinteach, éiríonn muid crua. Ach éist leis an méid a deir Íosa: 'Bain an bhíoma as do shúil féin ar dtús; ansin feicfidh tú go soiléir.' \n\nSmaoinigh ar an gcineáltas a bhí in Ben. Bhí a chroí chomh oscailte sin go raibh sé réidh, fiú ag cúig bliana déag d'aois, a bhanc múc a thairiscint chun cabhrú lena uncail William. Níor bhris sé an banc, níor ghlac sé an t-airgead, ach bhí an tairiscint ann. Bhí an tairiscint sin cosúil le solas. Ní raibh aon 'bhíoma' de chiontacht nó de leithleas ina shúil; ní raibh ann ach fonn íon chun cabhrú. Sin é an rud a d’fhoghlaim sé ón gCríost. Sin é an bealach a mhair sé. \n\nAch caithfimid an fhírinne a rá sula dtairgimid compord. Tá dhá mhí caite ó d’fhág Benjamin an saol seo. Dhá mhí de chiúnas. Do Alan agus Thao, agus do Ryan, tá an ciúnas sin trom. Tá na huaireanta sin ann nuair a bhíonn an t-uaigneas chomh láidir sin go mothaíonn sé gur bhíoma é atá ag cur bac ar an solas. B’fhéidir go bhfuil sibh ag fiafraí an ndearna sibh go leor, an raibh rud éigin a d’fhéadfadh a bheith déanta difriúil. Éistigí go han-chúramach: Níor pheacaigh an duine seo ná a thuismitheoirí. Níor thip oraibh in aon chor. Ní raibh aon rud a d’fhéadfadh sibh a dhéanamh a d’athródh an toradh. Uaireanta, tagann an tinneas isteach sa saol, rud nach bhfuil aon mhíniú air, rud atá thar ár n-acmhainn. Ná cuir an t-ualach sin de chiontacht ort féin. Tá sibh glan, tá sibh saor, agus tá grá Dé ag clúdach gach uile nóiméad den chúram a thug sibh do Ben. \n\nNuair a deir Naomh Pól sa chéad léacht, 'Rithigí ar bhealach go bhfaighidh sibh an duais', tá sé ag caint ar an disciplín a bhíonn ag lúthchleasaí. Ach ní hé sin disciplín an dlí, is disciplín an ghrá é. Tá Ben ag rith an rás sin anois i láthair Dé. Agus anois, tá sé ag féachaint anuas oraibh, ag iarraidh orainn uile an 'bhíoma' den bhrón a ligean tharainn, gan é a shéanadh, ach gan ligean dó sinn a dhalladh ar an ngrá atá fós ann. \n\nIs é an t-athrú a thagann inniu ná seo: nuair a bhíonn muid ag caoineadh, tá muid ag caoineadh mar gheall ar an ngrá. Agus tá an grá sin, an grá a bhí ag Ben do Ryan, an grá a bhí aige dá thuismitheoirí, fós beo. Tá sé ag obair sa tobar uisce sin i Vítneam, tá sé ag obair i ngach gníomh cineáltais a dhéanann sibh. Nuair a théann sibh amach an doras inniu, cuimhnigh ar an gcaoi a raibh Ben ag iarraidh 'Con Chim Airlines' a chruthú. Bhí sé ag iarraidh daoine a thabhairt chuig áiteanna nua, chuig spéartha níos gile. Déanaigí an rud céanna. Tabhraigí gáire d’éinne atá ag fulaingt. Bíodh bhur gcroí oscailte, mar a bhí a chroí-san. Tá Ben ag fanacht libh sa solas, ag gáire, agus ag faire oraibh le grá síoraí. Tá sibh saor, tá sibh grámhar, agus tá sibh á iompar ag lámha an Athar.",
+  "petition_call": "Guímis chun an Tiarna.",
+  "petition_response": "A Thiarna, éist linn.",
+  "standing_petitions": [
+    "Go dtuga Dia suaimhneas síoraí do Benjamin Vo agus do gach duine dár muintir atá imithe ar slí na fírinne, go bhfeice siad solas na bhflaitheas.",
+    "Go dtuga an Tiarna sólás agus dóchas do gach duine atá ag fulaingt de bharr bróin, go háirithe do theaghlach Ben, go mbraitheann siad láithreacht Dé i ngach uaigneas."
+  ],
+  "labels": {
+    "opening": "Fáilte",
+    "penitential": "An tAithrí",
+    "word": "Léachtaí",
+    "homily": "Machnamh",
+    "petitions": "Idirghuí",
+    "communion": "Comaoineach Spioradálta",
+    "closing": "Beannacht"
+  },
+  "spiritual_communion": "A Íosa, creidim go bhfuil tú i láthair go fírinneach sa tSacraimint Naofa. Graím tú thar gach ní, agus is mian liom tú a ghlacadh i mo anam. Ós rud é nach féidir liom tú a ghlacadh sa Sacraimint anois, tar chugam go spioradálta i mo chroí. Glacaim leat mar a bheadh tú i láthair cheana féin, agus aontaím mé féin go hiomlán leat. Ná lig dom riamh scaradh uait.",
+  "closing": "Go mbeannaí agus go gcosnaí Dia Uilechumhachtach sibh, an tAthair, agus an Mac, agus an Spiorad Naomh. Amen.",
+  "readings": [
+    {
+      "label": "An Chéad Léacht",
+      "cite": "1 Corantaigh 9:16-19, 22b-27",
+      "text": "A bhráithre, má chraobhscaoilim an Soiscéal, ní cúis mhaighne dom é, óir tá dualgas forchurtha orm, agus is mairg dom mura gcraobhscaoilim é! Má dhéanaim é seo go toilteanach, tá luach saothair agam, ach má dhéanaim é go drogallach, níl ann ach stiúrthóireacht atá curtha ar iontaoibh agam. Cad é mo luach saothair, mar sin? Is é sin, nuair a chraobhscaoilim, go dtugaim an Soiscéal saor in aisce, ionas nach mbainim úsáid iomlán as mo cheart sa Soiscéal. Cé go bhfuilim saor i leith cách, rinne mé mé féin i mo sheirbhíseach do chách ionas go mbuafainn an oiread agus is féidir. Rinne mé mé féin mar chách do chách, chun cuid acu a shábháil ar a laghad. Déanaim seo ar fad ar son an tSoiscéil, ionas go mbeadh sciar agam féin ann freisin. Nach bhfuil a fhios agaibh go rithtear an rás sa staidiam, ach nach mbíonn ach duine amháin a bhuaigh an duais? Rithigí ionas go mbuafaidh sibh. Cleachtann gach lúthchleasaí smacht i ngach slí. Déanann siad é chun coróin a théann i léig a fháil, ach déanaimidne é chun ceann nach dtéann i léig a fháil. Mar sin, ní rithim gan aidhm; ní throidim mar a bheadh scáth-dornálaíocht á déanamh agam. A mhalairt ar fad, déanaim mo chorp a smachtú agus a thraenáil, ar eagla go ndícháilítear mé féin, tar éis dom seanmóir a dhéanamh do dhaoine eile."
+    },
+    {
+      "label": "Salm Freagrach",
+      "cite": "Salm 84:3, 4, 5-6, 12",
+      "text": "R. A Thiarna na slua, is aoibhinn do theach! Tá fonn agus éad ar m’anam i ndiaidh chúirteanna an Tiarna. Tá mo chroí agus mo cholainn ag screadach i ndiaidh an Dé bheo. R. A Thiarna na slua, is aoibhinn do theach! Faigheann an gealbhan féin teach, agus an fáinleog nead ina gcuireann sí a hál—Do altóirí, a Thiarna na slua, a Rí mo Dhia! R. A Thiarna na slua, is aoibhinn do theach! Is méanar dóibh siúd a chónaíonn i do theach! Molann siad tú go síoraí. Is méanar dóibh siúd a bhfuil a neart ionat! Tá a gcroíthe socraithe ar an oilithreacht. R. A Thiarna na slua, is aoibhinn do theach! Óir is grian agus sciath é an Tiarna Dia; tugann sé grásta agus glóir; Ní choinníonn an Tiarna aon mhaith siar uathu siúd a shiúlann go macánta. R. A Thiarna na slua, is aoibhinn do theach!"
+    },
+    {
+      "label": "Soiscéal",
+      "cite": "Lúcás 6:39-42",
+      "text": "Dúirt Íosa parabal lena dheisceabail: 'An féidir le duine dall duine dall eile a threorú? Nach dtitfidh an bheirt acu isteach i bpoll? Níl deisceabal níos fearr ná an máistir; ach nuair a bheidh sé oilte go hiomlán, beidh gach deisceabal cosúil lena mháistir. Cén fáth a dtugann tú faoi deara an smidirín i súil do dhearthár, ach nach bhfeiceann tú an bhíoma atá i do shúil féin? Conas is féidir leat a rá le do dheartháir, \"A dheartháir, lig dom an smidirín sin i do shúil a bhaint amach,\" nuair nach dtugann tú faoi deara an bhíoma i do shúil féin? A fhir mheallta! Bain an bhíoma as do shúil féin ar dtús; ansin feicfidh tú go soiléir chun an smidirín i súil do dhearthár a bhaint amach.'"
+    }
+  ],
+  "day": "Friday of the Twenty-third Week in Ordinary Time",
+  "date": "2026-09-11",
+  "lang": "ga",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - need a miracle here. We miss you so much and we’re not sleeping much. Ryan wish you were here, especially this upcoming Saturday to play the new version of Project Flight with him."
+    },
+    {
+      "name": "Dad",
+      "text": "Dear Ben, our uncle Thanh has passed away. Please watch over him and pray that his soul finds peace. His saint name is Phêrô. Lord, thank you for sending Chu Thanh into my life. I'll always be grateful for the time he spent tutoring me in math back in high school"
+    },
+    {
+      "name": "Dad",
+      "text": "can't stop thinking about you Ben... wishing i could go back into time and try to change things around... maybe spend more time with you and less working so much. Please pray for me and mom."
+    },
+    {
+      "name": "Dad",
+      "text": "I miss you Ben - haven't been able to sleep much these days. Please stop by to say hi whenever you're able to. Love you"
+    }
+  ]
+}

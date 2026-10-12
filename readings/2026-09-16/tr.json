@@ -1,0 +1,91 @@
+{
+  "day_local": "Azizler Cornelius, Papa ve Cyprian, Piskopos, Şehitler Anması",
+  "greeting": "Baba, Oğul ve Kutsal Ruh’un adıyla. Amin. Rab’bin lütfu ve barışı hepinizle olsun.",
+  "penitential": "Rab, bize merhamet et.\nMesih, bize merhamet et.\nRab, bize merhamet et.",
+  "psalm_response": "Rabbin kendi mirası olarak seçtiği halk ne mutludur!",
+  "homily": "Bir an için, eski ve paslı bir kilisenin pirinç zilini düşünün. Rüzgâr vurur, koca bir ses dalgası yayılır; gürültülüdür, uzaklardan duyulur ama içi boştur. Paulos bugün Korintoslulara yazarken tam da bu sesi alıyor eline. Eğer sevginiz yoksa diyor, ne kadar dilli, ne kadar bilgili, ne kadar dağları yerinden oynatacak kadar inançlı olursanız olun, o çınlayan metal parçasından farksızsınız. Sevgi sabırlıdır, sevgi şefkatlidir. Sevgi kıskanmaz, övünmez, şişinmez… \n\nSevgili Alan, sevgili Thao, sevgili Ryan… Benjamin’imizin aramızdan ayrılışının üzerinden yaklaşık üç ay geçti. Bugün, Azizler Cornelius ve Cyprian’ın şehitlik hatırasını kutlarken, kilisenin bu kadim topraklarında Pavos’un o sevgi gazelini okuyoruz. Ve birden zihnimize Ben düşüyor. O, sevginin ta kendisiydi çünkü hesapsızdı. Hatırlayın; o on beş yaşında, amcası William iki felç geçirdiğinde, bir an bile tereddüt etmeden bütün kumbarasını, sahip olduğu her şeyi amcasına sunmaya niyet etmişti. O parayı hiç kırmadı, kumbarayı hiç parçalamadı; paraya ihtiyaç da kalmadı zaten, ameliyatı ve sigortası hazırdı. Ama o niyet, o bir çocuğun unutulmaz cömertliği… İşte Pavlos’un anlattığı sevgi tam da budur. Karşılık beklemeden, elindeki son kuruşu, en değerli hazineyi bile sevdiklerine uzatabilen o saf yürek.\n\nGerçeği dürüstçe konuşalım, çünkü yas kelimelerle örtülemez. Bazen o boş odanın önünden geçerken, o sandalyenin sessizliği karşısında yüreğinize çöken o ağırlığı biliyorum. Gecenin en derin saatinde, zihninizde dönen o sessiz sorular… Acaba bir şeyi mi kaçırdık, acaba daha fazlasını yapabilir miydik? Lütfen bugün o ağır taşı yüreğinizden indirin. İsa’nın doğuştan kör olan adam için söylediği gibi: Ne bu çocuk günah işledi, ne de anne babası. Bazı fırtınalar bu dünyada insan gücünün tamamen ötesindedir; ne bir dikkat, ne bir sevgi, ne de en kusursuz tıbbi çaba o kapıyı kapatmaya yeter. Sizler Benjamin’e bir ailenin verebileceği en kusursuz, en derin, en koruyucu sevgiyi verdiniz. Tanrı sizi suçlamıyor; Benjamin de sizi suçlamıyor. O, şimdi o göksel pencerelerden size şefkatle gülümsüyor.\n\nBen, zekasıyla olduğu kadar o neşeli ruhuyla da aramızdaydı. Havalimanlarında uçakları izlerken, babasıyla o Boeing 737’lerin peşinden koşarken kurduğu o hayali airline şirketini hatırlayın; 'Con Chim Airlines' diyerek nasıl da neşeyle gülümserdi. O, kuşları, gökyüzünü, bulutların ötesini severdi. Şimdi o göklerin ötesinde, hayalini kurduğu o sonsuz mavilikte dinleniyor. \n\nSevgili Ryan, kardeşim… Ağabeyin Benjamin’in o en sadık yoldaşı. Birlikte koşturduğunuz o bahçeleri, o güneşli sokakları unutma. Ağabeyinin o hesapsız sevgisi, o 'denemek her şeydir' diyen inatçı ama nazik ruhu senin içinde yaşıyor. Gökyüzünden geçen her uçak sesinde, bil ki Ben senin hemen yanında.\n\nBugün dışarı çıkarken yanınıza alacağınız şey şu olsun: Sevginin hesabı olmaz. Tıpkı Ben’in kumbarasını sunmaya hazır olduğu gibi, bugün birine karşılıksız bir iyilik yapın. Birinin yükünü hafifletin. Ve Rab’be güvenin; O, döktüğünüz her gözyaşını avucunda saklıyor.",
+  "spiritual_communion": "Ey İsa’m, Seni Kutsal Altar’da gerçeğe inanarak huzur buluyorum. Seni her şeyden çok seviyorum ve canımda arzuluyorum. Seni sakrament içinde şu an alamasam da, hiç değilse manevi olarak kalbime gel. Seni kollarımın arasına alıyormuş gibi kucaklıyor ve tümüyle Sana bağlanıyorum. Beni Senden asla ayırmana izin verme. Amin.",
+  "closing": "Rab sizi bereketiyle sarsın ve barışıyla doldursun. Şimdi ve ebediyen. Amin.",
+  "petition_call": "Rabbimiz'e yalvaralım.",
+  "petition_response": "Rabbimiz, bize kulak ver.",
+  "labels": {
+    "opening": "Giriş",
+    "penitential": "Tövbe Ayini",
+    "word": "Tanrı Sözü",
+    "homily": "Vaaz",
+    "petitions": "Ortak Dualar",
+    "communion": "Manevi Komünyon",
+    "closing": "Kapanış ve Bereket"
+  },
+  "standing_petitions": [
+    "Benjamin ve bu dünyadan göç eden tüm canlar için; onların ışıkta dinlenmesi ve Rab'bin huzurunda barış bulması için yalvarıyoruz.",
+    "Acı çeken, yas tutan tüm aileler ve özellikle evlat acısıyla yüreği yanan anne babalar için; Rab'bin onlara teselli ve umut vermesi için yalvarıyoruz."
+  ],
+  "readings": [
+    {
+      "label": "Birinci Okuma",
+      "cite": "1 Korintoslular 12:31-13:13",
+      "text": "Kardeşler, en üstün lütufları gayretle arzulayın. Şimdi size en üstün yolu gösteriyorum. İnsanların ve meleklerin dilleriyle konuşsam, ama sevgim olmasa, ses çıkaran bir bakır ya da çınlayan bir zil olurum. Peygamberlik etme gücüm varsa, bütün sırları ve bütün bilgiyi biliyorsam, dağları yerinden oynatacak kadar büyük inancım varsa, ama sevgim olmasa, hiçbir şeyim. Bütün malımı sadaka olarak dağıtsam, bedenimi yakılması için teslim etsem, ama sevgim olmasa, bunun bana hiçbir yararı olmaz. Sevgi sabırlıdır, sevgi şefkatlidir; sevgi kıskanmaz, övünmez, kibirli değildir; saygısızca davranmaz, kendi çıkarını aramaz, öfkelenmez, kötülüğün hesabını tutmaz. Haksızlığa sevinmez, ama gerçekle birlikte sevinir. Her şeyi katlanır, her zuruma inanır, her şeyi umut eder, her şeye dayanır. Sevgi asla son bulmaz. Peygamberlikler son bulacak, diller susturulacak, bilgi ortadan kalkacaktır. Çünkü kısmen biliyor, kısmen peygamberlik ediyoruz; ama olgun olan gelince, kısmi olan ortadan kalkacaktır. Çocukken çocuk gibi konuşur, çocuk gibi düşünür, çocuk gibi muhakeme ederdim; adam olunca çocukça şeyleri bıraktım. Şimdilik aynada silik bir görüntü gibi görüyoruz, ama o zaman yüz yüze geleceğiz. Şimdi kısmen biliyorum; ama o zaman, tamamen bilindiğim gibi eksiksiz bileceğim. Şimdi kalıcı olan üç şey vardır: iman, umut ve sevgi; ama bunların en büyüğü sevgidir."
+    },
+    {
+      "label": "Mezmur",
+      "cite": "Mezmur 33:2-3, 4-5, 12 ve 22",
+      "text": "R. Rabbin kendi mirası olarak seçtiği halk ne mutludur! Çenk eşliğinde RAB'be şükredin, on telli lirle O'na ilahiler söyleyin. O'na yeni bir ezgi okuyun, sevinç çığlıklarıyla ustaca çalın. R. Rabbin kendi mirası olarak seçtiği halk ne mutludur! Çünkü RAB'bin sözü doğrudur, bütün işleri güvenilirdir. O adaleti ve dürüstlüğü sever; yeryüzü RAB'bin sevgisiyle doludur. R. Rabbin kendi mirası olarak seçtiği halk ne mutludur! Tanrısı RAB olan ulus, O'nun mirası olarak seçtiği halk ne mutludur! Ya RAB, umudumuzu Sana bağladığımız gibi, sevgin de üzerimizde olsun. R. Rabbin kendi mirası olarak seçtiği halk ne mutludur!"
+    },
+    {
+      "label": "İncil",
+      "cite": "Luka 7:31-35",
+      "text": "İsa şöyle dedi: «Bu kuşağın insanlarını kime benzeteyim? Onlar neye benziyorlar? Çarşı meydanında oturup birbirlerine seslenen çocuklara benzerler: 'Size flüt çaldık, oynamadınız; ağıt yaktık, ağlamadınız.' Çünkü Vaftizci Yahya ne ekmek yiyor ne şarap içiyor; 'Cin çarpmış' diyorsunuz. İnsanoğlu yiyip içerek geldi; 'Bakın, işte bir glutton ve şarap düşkünü, vergi görevlilerinin ve günahkarların dostu' diyorsunuz. Ama bilgelik, bütün çocukları tarafından haklı çıkarılmıştır.»"
+    }
+  ],
+  "day": "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+  "date": "2026-09-16",
+  "lang": "tr",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - need a miracle here. We miss you so much and we’re not sleeping much. Ryan wish you were here, especially this upcoming Saturday to play the new version of Project Flight with him."
+    }
+  ]
+}

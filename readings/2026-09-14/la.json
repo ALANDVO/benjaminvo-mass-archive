@@ -1,0 +1,96 @@
+{
+  "day_local": "In Exaltatione Sanctae Crucis",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Amen. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Nolite oblivisci opera Domini!",
+  "homily": "In deserto, sub sole ardente, populus Israel iter faciebat. Erant fatigati, erant siti, et in cordibus eorum oriebatur illa querela quae nos omnes, aliquando, tangit: 'Quare nos eduxisti ut moriamur in deserto?' Haec est vox humana, vox fracta, quae in medio solitudinis Deum accusat. Et tunc, serpentes venerunt. Mors in terram cecidit. Sed videte, fratres et sorores, quid Deus faciat. Non delet populum, sed praebet remedium. 'Fac seraph et pone eum super perticam; et omnis, qui percussus aspexerit eum, vivet.'\n\nAspicere. Hoc est verbum hodiernum. Aspicere ad id quod est innaltatum. Aspicere ad lignum crucis. Cogitate de Benjamin. Benjamin, qui tam acutus erat in logica, qui in mundo machinarum et codicum, in AWS et in omni structura digitali, ordinem quaerebat. Benjamin, qui sicut avis in caelo, sicut 'con chim airlines' de qua tam libenter ridebat, semper sursum spectabat. Ipse non erat puer qui in terra haerebat; ipse erat puer qui ad maiora, ad alta, ad infinitum anhelabat.\n\nSed hodie, in hac festivitate crucis, necesse est nos veritatem fateri. Non est facile hodie stare in hoc silentio. Alan et Thao, vos scitis melius quam quisquam alius quid sit pondus absentiae. Post tres menses, cubiculum illud quietum est. Ryan, frater carissime, tu quaeris fratrem tuum in omni angulo domus. Nolite simulare dolorem non esse. Nolite putare vos debere fortis videri ubi cor vestrum vulneratum est. Dolor hic est verus, et Deus non vult ut vos hunc dolorem sola manu feratis. Et si subit vobis illa gravis cogitatio: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hodie vocem Christi. Sicut Iesus docet, infirmitas non est poena; morbus non est defectus amoris vestri. Vos nihil omisistis. Non est in vobis ulla culpa. Deus non vos accusat, et ego vos in nomine eius absolvo ab omni pondere suspicionis. Vos fuistis parentes qui omnem viam cum eo ambulastis. Non est in vobis ulla culpa.\n\nHic est ille cardo ubi lux in noctem vestram intrat. In Evangelio, Iesus dicit: 'Sicut Moses exaltavit serpentem in deserto, ita exaltari oportet Filium hominis.' Quid est haec exaltatio? Estne victoria mundi? Non. Est victoria amoris. Christus, qui in forma Dei erat, semetipsum exinanivit, formam servi accipiens, usque ad mortem crucis. In cruce, Deus non est distantia; Deus est proximitas. In cruce, Deus ipse fit vulnerabilis. Benjamin, ille puer qui volebat totum suum piggy bank offerre avunculo suo, non fregit capsulam, non effudit nummos, sed obtulit. In hoc actu abscondito, in hac voluntate dandi totum, videmus imaginem Christi. Benjamin non quaerebat gloriam; quaerebat solacium alterius. Ipse, in sua innocentia, noverat quod nos saepe obliviscimur: quod amor non est in possessione, sed in donatione.\n\nRyan, frater carissime, tu es pars huius amoris. Tu et Benjamin eratis sicut duae alae unius avis. Noli timere. Frater tuus non est longe. Ipse tecum est in omni ludo, in omni cogitatione tua. Perge vivere, perge studere, perge ridere, quia in tuo risu, Benjamin pergit in terra operari. Tu es spes familiae, et frater tuus te custodit ab altitudine caeli. Benjamin est in Banquet of Heaven, ubi nullus fletus, nullus morbus, nulla separatio est. Ipse vos expectat.\n\nAd omnes vos qui hanc devotionem auditis: si vos ipsi onus grave fertis, si vos ipsi sentitis in fovea esse, scitote Deum non esse alienum a dolore vestro. Ipse descendit in foveam. Ipse est nobiscum in omne tempus. Quid ergo hodie portabitis tecum ex hoc ambo? Cum redieritis ad domum vestram, et forte in silentio sedebitis, nolite timere silentium. In silentio non habitat mors; in silentio habitat Deus, et cum eo habitat Benjamin. Respiros capite altiores. Dicite in corde vestro illam simplicem invocationem: 'Domine Iesu, tu es nobiscum.' Et permittite ut pax illa, quae omnem sensum superat, cor vestrum custodiat. Benjamin est in pace, in convivio caeli. Ipse vos amat, ipse vos custodit usque ad diem illum quo omnes iterum congregebimur in conspectu Patris. Amen.",
+  "spiritual_communion": "Ad te venio, Domine Iesu, et in corde meo te recipio. Non possum te sacramentaliter sumere, sed veni ad me spiritu tuo. Unio mea tecum sit perfecta, et numquam me a te separari permittas. Amen.",
+  "closing": "Benedicat nos omnipotens Deus, et custodiat nos in pace sua. Amen.",
+  "petition_call": "Rogemus Dominum.",
+  "petition_response": "Te rogamus, audi nos.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Praedicatio",
+    "petitions": "Petitiones",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin, puero dilecto, et pro omnibus fidelibus defunctis, ut in luce Christi requiescant.",
+    "Pro omnibus qui luctu afflicti sunt, ut Deus eos consoletur et spem vivam in cordibus eorum ponat."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Numbers 21:4b-9",
+      "text": "In diebus illis: Taedio affectus populus in itinere, locutus est contra Deum et Moysen: 'Quare eduxistis nos de Aegypto, ut moriamur in deserto? Non est panis, non est aqua; anima nostra nauseat super cibo isto levissimo.' Misit ergo Dominus in populum serpentes ignitos, qui mordebant eos et multos occidebant. Accessitque populus ad Moysen et ait: 'Peccavimus, quia locuti sumus contra Dominum et contra te; ora, ut auferat a nobis serpentes.' Oravitque Moyses pro populo, et dixit Dominus ad eum: 'Fac seraph et pone eum super perticam; omnis, qui percussus aspexerit eum, vivet.' Fecit ergo Moyses serpentem aeneum et posuit eum super perticam; et cum percussus aspiceret serpentem aeneum, vivebat."
+    },
+    {
+      "label": "Psalmus responsorius",
+      "cite": "Psalm 78:1bc-2, 34-35, 36-37, 38",
+      "text": "R. Nolite oblivisci opera Domini! Attendite, popule meus, legem meam; inclinate aurem vestram in verba oris mei. Aperiam in parabola os meum; loquar problemata de initio. R. Nolite oblivisci opera Domini! Cum occideret eos, quaerebant eum et revertebantur et diluculo veniebant ad Deum. Et recordabantur quia Deus adiutor est eorum, et Deus excelsus redemptor eorum. R. Nolite oblivisci opera Domini! Et deceperunt eum in ore suo et lingua sua mentiti sunt ei; cor autem eorum non erat rectum cum eo, nec fideles habiti sunt in testamento eius. R. Nolite oblivisci opera Domini! Ipse autem est misericors et propitius et dimittit peccata et non disperdit. Et frequenter avertit iram suam et non succendit omnem furorem suum. R. Nolite oblivisci opera Domini!"
+    },
+    {
+      "label": "Lectio secunda",
+      "cite": "Philippians 2:6-11",
+      "text": "Fratres: Christus Iesus, cum in forma Dei esset, non rapinam arbitratus est esse se aequalem Deo, sed semetipsum exinanivit formam servi accipiens, in similitudinem hominum factus; et habitu inventus ut homo, humiliavit semetipsum factus oboediens usque ad mortem, mortem autem crucis. Propter quod et Deus illum exaltavit et donavit illi nomen, quod est super omne nomen, ut in nomine Iesu omne genu flectatur caelestium, terrestrium et infernorum, et omnis lingua confiteatur quia Dominus Iesus Christus in gloria est Dei Patris."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "John 3:13-17",
+      "text": "In illo tempore: Dixit Iesus Nicodemo: 'Nemo ascendit in caelum, nisi qui descendit de caelo, Filius hominis. Et sicut Moyses exaltavit serpentem in deserto, ita exaltari oportet Filium hominis, ut omnis, qui credit in ipso, habeat vitam aeternam. Sic enim dilexit Deus mundum, ut Filium suum unigenitum daret, ut omnis, qui credit in eum, non pereat, sed habeat vitam aeternam. Non enim misit Deus Filium in mundum, ut iudicet mundum, sed ut salvetur mundus per ipsum.'"
+    }
+  ],
+  "day": "Feast of the Exaltation of the Holy Cross",
+  "date": "2026-09-14",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - need a miracle here. We miss you so much and we’re not sleeping much. Ryan wish you were here, especially this upcoming Saturday to play the new version of Project Flight with him."
+    },
+    {
+      "name": "Dad",
+      "text": "Dear Ben, our uncle Thanh has passed away. Please watch over him and pray that his soul finds peace. His saint name is Phêrô. Lord, thank you for sending Chu Thanh into my life. I'll always be grateful for the time he spent tutoring me in math back in high school"
+    }
+  ]
+}

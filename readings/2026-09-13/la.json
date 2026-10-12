@@ -1,0 +1,96 @@
+{
+  "day_local": "Dominica vicesima quarta per annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Amen. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison.\nChriste, eleison.\nKyrie, eleison.",
+  "psalm_response": "Dominus miserator et misericors est, longanimis et multae misericordiae.",
+  "homily": "In lectione hodierna, Sirach nos monet: 'Memento novissimorum et desine inimicari.' Cogitate de hac imagine: tabula in mensa, ubi olim quattuor sedebant, nunc tres sedent. Sella vacua. In illa sella, non solum absentia habitat, sed memoria. Memoria pueri, Benjamin, qui cum patre suo in multis urbibus mundi ambulabat, qui aeroplana amabat, qui in somniis patris sui, quasi in speculo, apparuit, validus et sanus, in bracis viridibus, dicens: 'Non est cur doleas, ba ơi, ego te custodiam.' \n\nAlan, Thao, Ryan, vos scitis hanc veritatem: dolor non est hostis, sed umbra amoris. Et tamen, Sirach nos invitat ad 'desinendum inimicari'. Non inimicari hominibus, sed fortasse inimicari ipsi vitae, ipsi Deo, ipsi sorti quae nos attigit. Subit vobis saepe illa tentatio: 'Quare?' Et in illo 'quare' latet ira, latet querela, latet illud 'ira et furor' de quibus Scriptura loquitur. Sed audite veritatem: Deus non est in ira. Deus est in misericordia.\n\nAntequam procedamus, necesse est nos veritatem fateri. Non est facile hodie stare in hoc silentio. Post tres menses, cubiculum illud quietum est. Ryan, frater carissime, tu quaeris fratrem tuum in omni angulo domus. Nolite simulare dolorem non esse. Nolite putare vos debere fortis videri ubi cor vestrum vulneratum est. Dolor hic est verus, et Deus non vult ut vos hunc dolorem sola manu feratis. Et si subit vobis illa gravis cogitatio: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hodie vocem Christi. Sicut Iesus docet in Evangelio, infirmitas non est poena; morbus non est defectus amoris vestri. Neque vos neque Benjamin peccastis. Vos fuistis parentes qui omnem viam cum eo ambulastis. Non est in vobis ulla culpa. Deus non vos accusat, et ego vos in nomine eius absolvo ab omni pondere suspicionis. Vos nihil omisistis.\n\nIn Evangelio, Petrus quaerit: 'Quoties peccabit in me frater meus, et dimittam ei?' Iesus respondet: 'Non dico tibi usque septies, sed usque septuagies septies.' Hoc non est de mathematica, quamquam Benjamin noster in mathematica tam excellens erat. Hoc est de capacitate cordis. Benjamin, ille puer qui volebat totum suum piggy bank offerre avunculo suo, non fregit capsulam, non effudit nummos, sed obtulit. In hoc actu abscondito, in hac voluntate dandi totum, videmus imaginem Christi. Benjamin non quaerebat gloriam; quaerebat solacium alterius. Ipse, in sua innocentia, noverat quod nos saepe obliviscimur: quod amor non est in possessione, sed in donatione.\n\n'Sive vivimus, sive morimur, Domini sumus.' Haec verba Pauli sunt anchora vestra. Benjamin non est 'praeteritus'. Ipse est 'praesens' in Deo. Sicut ille puteus, 'Giếng Gioan Baotixita', quem in memoriam eius dedicastis, aqua viva in terram aridam fluit, ita vita Benjamin, quamvis brevis in tempore, in aeternitate fluit. Ipse est sicut avis, sicut 'con chim airlines' de qua tam libenter ridebat, iam non in terra, sed in caelis volans, in libertate plena.\n\nRyan, frater carissime, tu es pars huius amoris. Tu et Benjamin eratis sicut duae alae unius avis. Noli timere. Frater tuus non est longe. Ipse tecum est in omni ludo, in omni cogitatione tua. Perge vivere, perge studere, perge ridere, quia in tuo risu, Benjamin pergit in terra operari. Tu es spes familiae, et frater tuus te custodit ab altitudine caeli.\n\nAd omnes vos qui hanc devotionem auditis: si vos ipsi onus grave fertis, si vos ipsi sentitis in fovea esse, scitote Deum non esse alienum a dolore vestro. Ipse descendit in foveam. Ipse est nobiscum in omne tempus. Quid ergo hodie portabitis tecum ex hoc ambo? Cum redieritis ad domum vestram, et forte in silentio sedebitis, nolite timere silentium. In silentio non habitat mors; in silentio habitat Deus, et cum eo habitat Benjamin. Respiros capite altiores. Dicite in corde vestro illam simplicem invocationem: 'Domine Iesu, tu es nobiscum.' Et permittite ut pax illa, quae omnem sensum superat, cor vestrum custodiat. Benjamin est in pace, in convivio caeli, ubi nullus fletus, nullus morbus, nulla separatio est. Ipse vos expectat, ipse vos amat, ipse vos custodit usque ad diem illum quo omnes iterum congregebimur in conspectu Patris. \n\nBenjamin, in tuo amore, in tua curiositate, in tua puritate, nos docuisti quid sit vivere. Nos docuisti quod, etsi vita brevis est, amor est aeternus. Manete in hoc amore. Manete in pace. Amen.",
+  "spiritual_communion": "Ad te confugio, Domine Iesu, et in corde meo te recipio, quia te praesentialiter sumere non possum. Veni in cor meum, et mane mecum, ut in te vivam et in te moriar. Amen.",
+  "closing": "Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus Sanctus. Amen. Ite in pace.",
+  "petition_call": "Rogamus te, Domine.",
+  "petition_response": "Exaudi nos, Domine.",
+  "labels": {
+    "opening": "Introductio",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Orationes Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Beniamino Vo et omnibus fidelibus defunctis, ut in luce Christi requiescant et pacem aeternam inveniant.",
+    "Pro omnibus qui luctu afflicti sunt, ut Deus corda eorum consoletur et spem vivam in cordibus eorum renovet."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Sirach 27:30—28:7",
+      "text": "Ira et furor, ambo execrabiles, vir peccator tenebit illas. Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit. Dimitte proximo tuo nocenti te, et tunc deprecanti tibi peccata tua solventur. Homo homini reservat iram, et a Deo quaerit medelam? In hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur? Ipse cum caro sit, reservat iram, et propitiationem petit a Deo? Quis exorabit pro delictis illius? Memento novissimorum et desine inimicari; tabescere et mortem, et permanere in mandatis. Memento timoris Dei, et ne irascaris proximo. Memento testamenti Altissimi, et despice ignorantiam proximi."
+    },
+    {
+      "label": "Psalmus responsorius",
+      "cite": "Psalm 103:1-2, 3-4, 9-10, 11-12",
+      "text": "Benedic, anima mea, Domino, et omnia, quae intra me sunt, nomini sancto eius. Benedic, anima mea, Domino, et noli oblivisci omnes retributiones eius. Qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas; qui redimit de interitu vitam tuam, qui coronat te in misericordia et miserationibus. Non in perpetuum irascetur, neque in aeternum comminabitur. Non secundum peccata nostra fecit nobis, neque secundum iniquitates nostras retribuit nobis. Quoniam secundum altitudinem caeli a terra, corroboravit misericordiam suam super timentes se. Quantum distat ortus ab occidente, longe fecit a nobis iniquitates nostras."
+    },
+    {
+      "label": "Lectio secunda",
+      "cite": "Romans 14:7-9",
+      "text": "Fratres: Nemo nostrum sibi vivit, et nemo sibi moritur. Sive enim vivimus, Domino vivimus; sive morimur, Domino morimur. Sive ergo vivimus, sive morimur, Domini sumus. In hoc enim Christus mortuus est et revixit, ut et mortuorum et vivorum dominetur."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Matthew 18:21-35",
+      "text": "Accessit Petrus ad Iesum et dixit: 'Domine, quotiens peccabit in me frater meus, et dimittam ei? Usque septies?' Dicit illi Iesus: 'Non dico tibi usque septies, sed usque septuagies septies. Ideo assimilatum est regnum caelorum homini regi, qui voluit rationem ponere cum servis suis. Et cum coepisset rationem ponere, oblatus est ei unus, qui debebat decem milia talenta. Cum autem non haberet unde redderet, iussit eum dominus venumdari et uxorem eius et filios et omnia, quae habebat, et reddi. Procidens autem servus ille orabat eum dicens: Patientiam habe in me, et omnia reddam tibi. Misertus autem dominus servi illius, dimisit eum et debitum dimisit ei. Egressus autem servus ille invenit unum de conservis suis, qui debebat ei centum denarios; et apprehendens eum suffocabat dicens: Redde, quod debes. Procidens autem conservus eius rogabat eum dicens: Patientiam habe in me, et reddam tibi. Noluit autem, sed abiit et misit eum in carcerem, donec redderet debitum. Videntes autem conservi eius, quae fiebant, contristati sunt valde et venerunt et narraverunt domino suo omnia, quae facta fuerant. Tunc convocavit illum dominus suus et ait illi: Serve nequam, omne debitum illud dimisi tibi, quoniam rogasti me; nonne oportuit et te misereri conservi tui, sicut et ego tui misertus sum? Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet universum debitum. Sic et Pater meus caelestis faciet vobis, si non remiseritis unusquisque fratri suo de cordibus vestris.'"
+    }
+  ],
+  "day": "Twenty-fourth Sunday in Ordinary Time",
+  "date": "2026-09-13",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben, Trustin visited you today and left you a few airplane cards—we're putting them in your room for you. Please pray for Trustin and his family to stay healthy and strong. Be a guardian angel to Trustin and Ryan as they go through school, and help guide their steps through every year to come."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, Làm cả ngày tới tối, đến lúc chuẩn bị đi ngủ thì nằm một lúc lại nhớ Ben, nhớ mấy chuyện hai anh em từng nói với nhau. Nghĩ tới em, anh thấy buồn nhiều lắm. Ben hãy luôn theo dõi và cầu nguyện cho ba mẹ và Ryan nhé, nước mắt chảy ngược nó khủng khiếp hơn chảy xuôi đó Ben."
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, ba nhớ con nhiều quá.\n\nMommy cũng vậy. Hơn hai tháng rồi mà ba má vẫn khóc mỗi ngày.\n\nCon giúp ba má vượt qua nha, để lo cho em"
+    },
+    {
+      "name": "",
+      "text": "Hey Ben,  nếu có thể hãy cho anh Minh gặp Ben trong giấc mơ nhé, dù chỉ là lời chào hay nụ cười như cách Ben vẫn hay tạo dáng để chụp hình. Nhớ và thương Ben nhiều lắm"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - need a miracle here. We miss you so much and we’re not sleeping much. Ryan wish you were here, especially this upcoming Saturday to play the new version of Project Flight with him."
+    },
+    {
+      "name": "Dad",
+      "text": "Dear Ben, our uncle Thanh has passed away. Please watch over him and pray that his soul finds peace. His saint name is Phêrô. Lord, thank you for sending Chu Thanh into my life. I'll always be grateful for the time he spent tutoring me in math back in high school"
+    }
+  ]
+}
